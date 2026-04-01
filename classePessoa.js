@@ -19,6 +19,6 @@ class Pessoa {
 }
 
 // Criando uma "instância" (um objeto real baseado na planta da classe)
-const aluno1 = new Pessoa("Carlos", 20, "Estudante de TI");
+const aluno1 = new Pessoa("Xandão", 32, "Estudante de TI");
 aluno1.saudar();
 aluno1.fazerAniversario();
